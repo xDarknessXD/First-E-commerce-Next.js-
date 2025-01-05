@@ -46,4 +46,4 @@ const ProductCard = ({ product }: { product: Product }) => {
 export default ProductCard;
 
 
-// Nice One
+// Nice One default mastery
